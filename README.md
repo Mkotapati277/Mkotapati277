@@ -6,7 +6,4 @@
 .
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love optimizing data pipelines to make them faster and more efficient!
-- 
-Mkotapati277/Mkotapati277 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+

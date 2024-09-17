@@ -5,6 +5,7 @@
 📫 How to reach me: Feel free to reach out via my GitHub profile or LinkedIn - linkedin.com/in/manoj-kumar-kotapati .
 😄 Pronouns: He/Him
 ⚡ Fun fact: I love optimizing data pipelines to make them faster and more efficient!
+
 🟢 How to reach me @email: Mkotapati277@gmail.com
 
 🌐 Socials:

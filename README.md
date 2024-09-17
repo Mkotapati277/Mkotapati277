@@ -9,7 +9,7 @@
 🟢 How to reach me @email: Mkotapati277@gmail.com
 
 🌐 Socials:
-[LinkedIn](https://linkedin.com/in/Manoj kumar Kotapati )
+[LinkedIn](https://linkedin.com/in/ManojkumarKotapati )
 
 💻 Tech Stack:
 Pandas NumPy Git GitHub Actions GitHub scikit-learn AmazonDynamoDB ApacheCassandra Teradata Neo4J MySQL MongoDB SQLite Postgres Apache Apache Airflow Jenkins Google Cloud Python Scala
